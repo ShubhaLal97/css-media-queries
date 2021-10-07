@@ -1,0 +1,10 @@
+p {
+    font-size: 30px;
+    color: blueviolet;
+}
+@media  screen and (max-width:500px) {
+    p {
+        font-size: 24px;
+        color:chartreuse;
+    }
+}
